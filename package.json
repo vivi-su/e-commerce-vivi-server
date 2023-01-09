@@ -1,0 +1,31 @@
+{
+  "name": "e-commerce-server-vivi",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "dependencies": {
+    "@strapi/plugin-content-manager": "^4.5.5",
+    "@strapi/plugin-i18n": "^4.3.9",
+    "@strapi/plugin-users-permissions": "^4.3.9",
+    "@strapi/strapi": "^4.3.9",
+    "mysql": "2.18.1",
+    "stripe": "^11.6.0"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "f5fe1b9d-3165-42e1-ba8f-f808c7781ebc"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
