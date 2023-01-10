@@ -10,7 +10,6 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-content-manager": "^4.5.5",
     "@strapi/plugin-i18n": "^4.3.9",
     "@strapi/plugin-users-permissions": "^4.3.9",
     "@strapi/strapi": "^4.3.9",
@@ -26,7 +25,7 @@
     "uuid": "f5fe1b9d-3165-42e1-ba8f-f808c7781ebc"
   },
   "engines": {
-    "node": ">=14.19.1 <=18.x.x",
+    "node": ">=12.x.x <=16.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
