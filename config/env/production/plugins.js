@@ -1,6 +1,5 @@
 module.exports = ({ env }) => ({
   upload: {
-    file:{folder:"store-test"},
     config: {
       provider: "cloudinary",
       providerOptions: {
@@ -10,6 +9,9 @@ module.exports = ({ env }) => ({
       },
       actionOptions: {
         upload: {},
+        uploadStream: {
+          folder: env("CLOUDINARY_FOLDER"),
+        },
         delete: {},
       },
     },
