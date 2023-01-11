@@ -1,5 +1,6 @@
 module.exports = ({ env }) => ({
   upload: {
+    file:{folder:"store-test"},
     config: {
       provider: "cloudinary",
       providerOptions: {
