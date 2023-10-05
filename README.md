@@ -1,12 +1,13 @@
 
 # VIISHCULZA
 
-VIISHCULZA is an online e-commerce store providing fast fashion clothing , accessories and shoes to man and women.
+VIISHCULZA is a fully responsive fictional online e-commerce store providing fast fashion clothing , accessories and shoes to man and women.
 
-![VIISHCULZA](https://github.com/vivi-su/e-commerce-vivi-server/assets/81454201/780939ef-ce8c-47e3-955b-47c5bd0a442a)
+- View online shop here: https://vivi-e-commerce.netlify.app/
 
+![VIISHCULZA](https://github.com/vivi-su/e-commerce-vivi/assets/81454201/5ef8109d-801a-413a-acc9-4f8c77d7a643)
 
-Project Link: https://vivi-e-commerce.netlify.app/
+Frontend Repo here: https://github.com/vivi-su/e-commerce-vivi
 
 Backend server link: https://e-commerce-vivi-server-production-8468.up.railway.app/
 
@@ -18,10 +19,8 @@ Backend server link: https://e-commerce-vivi-server-production-8468.up.railway.a
 
 ## 🍒 About Me
 
-Vivi Schulz
+Vivi Su
 
-A semiconductor engineer turned into front-end developer
+LinkedIn: https://www.linkedin.com/in/vivi-su
 
-LinkedIn: https://www.linkedin.com/in/vivi-schulz/
-
-GitHub: https://github.com/vivischulz
+GitHub: https://github.com/vivi-su
